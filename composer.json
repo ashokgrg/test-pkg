@@ -1,0 +1,19 @@
+{
+  "name": "jobins/date",
+  "description": "simple japanese formatted date laravel package",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Jobins\\Date\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ashok Gurung",
+      "email": "ashok@jobins.jp"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
